@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+env/
+
+.DS_Store
+
+*.log
+
+# Keep project databases if they are required for submission
+# *.db
+
+# Keep model artifacts if required
+# *.joblib

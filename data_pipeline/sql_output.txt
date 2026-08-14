@@ -1,0 +1,80 @@
+def save_sql_output(conn, output_path):
+
+    queries = {
+        "QUERY 1 - SELECT + LIMIT": SQL_QUERY_1,
+        "QUERY 2 - WHERE": SQL_QUERY_2,
+        "QUERY 3 - ORDER BY + LIMIT": SQL_QUERY_3,
+        "QUERY 4 - DISTINCT": SQL_QUERY_4,
+        "QUERY 5 - IN": SQL_QUERY_5,
+        "QUERY 6 - BETWEEN": SQL_QUERY_6,
+        "QUERY 7 - JOIN": SQL_QUERY_7,
+        "QUERY 8 - JOIN + GROUP BY": SQL_QUERY_8,
+    }
+
+    with open(
+        output_path,
+        "w",
+        encoding="utf-8"
+    ) as file:
+
+        file.write(
+            "ZEPTO CATALOG CAPSTONE
+"
+        )
+
+        file.write(
+            "EXECUTED SQL QUERIES AND OUTPUT
+"
+        )
+
+        file.write(
+            "=" * 80 + "
+
+"
+        )
+
+        for name, query in queries.items():
+
+            file.write(
+                "=" * 80 + "
+"
+            )
+
+            file.write(
+                f"{name}
+"
+            )
+
+            file.write(
+                "=" * 80 + "
+
+"
+            )
+
+            file.write(
+                query.strip()
+                + "
+
+"
+            )
+
+            result = pd.read_sql(
+                query,
+                conn
+            )
+
+            file.write(
+                result.to_string(
+                    index=False
+                )
+            )
+
+            file.write(
+                "
+
+"
+            )
+
+    print(
+        f"✓ SQL output saved to: {output_path}"
+    )

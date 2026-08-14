@@ -1,0 +1,114 @@
+title,price_gbp,price_inr,rating,in_stock,category,product_url,price,star_rating,availability
+It's Only the Himalayas,45.17,4765.44,2,True,Travel,https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html,Â£45.17,Two,In stock
+Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond,49.43,5214.86,4,True,Travel,https://books.toscrape.com/catalogue/full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html,Â£49.43,Four,In stock
+See America: A Celebration of Our National Parks & Treasured Sites,48.87,5155.78,3,True,Travel,https://books.toscrape.com/catalogue/see-america-a-celebration-of-our-national-parks-treasured-sites_732/index.html,Â£48.87,Three,In stock
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,36.94,3897.17,2,True,Travel,https://books.toscrape.com/catalogue/vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html,Â£36.94,Two,In stock
+Under the Tuscan Sun,37.33,3938.31,3,True,Travel,https://books.toscrape.com/catalogue/under-the-tuscan-sun_504/index.html,Â£37.33,Three,In stock
+A Summer In Europe,44.34,4677.87,2,True,Travel,https://books.toscrape.com/catalogue/a-summer-in-europe_458/index.html,Â£44.34,Two,In stock
+The Great Railway Bazaar,30.54,3221.97,1,True,Travel,https://books.toscrape.com/catalogue/the-great-railway-bazaar_446/index.html,Â£30.54,One,In stock
+A Year in Provence (Provence #1),56.88,6000.84,4,True,Travel,https://books.toscrape.com/catalogue/a-year-in-provence-provence-1_421/index.html,Â£56.88,Four,In stock
+The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),23.21,2448.66,1,True,Travel,https://books.toscrape.com/catalogue/the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html,Â£23.21,One,In stock
+Neither Here nor There: Travels in Europe,38.95,4109.23,3,True,Travel,https://books.toscrape.com/catalogue/neither-here-nor-there-travels-in-europe_198/index.html,Â£38.95,Three,In stock
+"1,000 Places to See Before You Die",26.08,2751.44,5,True,Travel,https://books.toscrape.com/catalogue/1000-places-to-see-before-you-die_1/index.html,Â£26.08,Five,In stock
+Sharp Objects,47.82,5045.01,4,True,Mystery,https://books.toscrape.com/catalogue/sharp-objects_997/index.html,Â£47.82,Four,In stock
+"In a Dark, Dark Wood",19.63,2070.96,1,True,Mystery,https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html,Â£19.63,One,In stock
+The Past Never Ends,56.5,5960.75,4,True,Mystery,https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html,Â£56.50,Four,In stock
+A Murder in Time,16.64,1755.52,1,True,Mystery,https://books.toscrape.com/catalogue/a-murder-in-time_877/index.html,Â£16.64,One,In stock
+The Murder of Roger Ackroyd (Hercule Poirot #4),44.1,4652.55,4,True,Mystery,https://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html,Â£44.10,Four,In stock
+The Last Mile (Amos Decker #2),54.21,5719.16,2,True,Mystery,https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html,Â£54.21,Two,In stock
+That Darkness (Gardiner and Renner #1),13.92,1468.56,1,True,Mystery,https://books.toscrape.com/catalogue/that-darkness-gardiner-and-renner-1_743/index.html,Â£13.92,One,In stock
+Tastes Like Fear (DI Marnie Rome #3),10.69,1127.79,1,True,Mystery,https://books.toscrape.com/catalogue/tastes-like-fear-di-marnie-rome-3_742/index.html,Â£10.69,One,In stock
+A Time of Torment (Charlie Parker #14),48.35,5100.92,5,True,Mystery,https://books.toscrape.com/catalogue/a-time-of-torment-charlie-parker-14_657/index.html,Â£48.35,Five,In stock
+A Study in Scarlet (Sherlock Holmes #1),16.73,1765.02,2,True,Mystery,https://books.toscrape.com/catalogue/a-study-in-scarlet-sherlock-holmes-1_656/index.html,Â£16.73,Two,In stock
+Poisonous (Max Revere Novels #3),26.8,2827.4,3,True,Mystery,https://books.toscrape.com/catalogue/poisonous-max-revere-novels-3_627/index.html,Â£26.80,Three,In stock
+Murder at the 42nd Street Library (Raymond Ambler #1),54.36,5734.98,4,True,Mystery,https://books.toscrape.com/catalogue/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html,Â£54.36,Four,In stock
+Most Wanted,35.28,3722.04,3,True,Mystery,https://books.toscrape.com/catalogue/most-wanted_623/index.html,Â£35.28,Three,In stock
+Hide Away (Eve Duncan #20),11.84,1249.12,1,True,Mystery,https://books.toscrape.com/catalogue/hide-away-eve-duncan-20_620/index.html,Â£11.84,One,In stock
+Boar Island (Anna Pigeon #19),59.48,6275.14,3,True,Mystery,https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html,Â£59.48,Three,In stock
+The Widow,27.26,2875.93,2,True,Mystery,https://books.toscrape.com/catalogue/the-widow_609/index.html,Â£27.26,Two,In stock
+Playing with Fire,13.71,1446.41,3,True,Mystery,https://books.toscrape.com/catalogue/playing-with-fire_602/index.html,Â£13.71,Three,In stock
+What Happened on Beale Street (Secrets of the South Mysteries #2),25.37,2676.54,5,True,Mystery,https://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html,Â£25.37,Five,In stock
+The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),52.3,5517.65,5,True,Mystery,https://books.toscrape.com/catalogue/the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html,Â£52.30,Five,In stock
+Delivering the Truth (Quaker Midwife Mystery #1),20.89,2203.9,4,True,Mystery,https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html,Â£20.89,Four,In stock
+The Mysterious Affair at Styles (Hercule Poirot #1),24.8,2616.4,4,True,Mystery,https://books.toscrape.com/catalogue/the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html,Â£24.80,Four,In stock
+In the Woods (Dublin Murder Squad #1),38.38,4049.09,2,True,Mystery,https://books.toscrape.com/catalogue/in-the-woods-dublin-murder-squad-1_433/index.html,Â£38.38,Two,In stock
+The Silkworm (Cormoran Strike #2),23.05,2431.78,5,True,Mystery,https://books.toscrape.com/catalogue/the-silkworm-cormoran-strike-2_280/index.html,Â£23.05,Five,In stock
+The Exiled,43.45,4583.98,3,True,Mystery,https://books.toscrape.com/catalogue/the-exiled_247/index.html,Â£43.45,Three,In stock
+The Cuckoo's Calling (Cormoran Strike #1),19.21,2026.66,1,True,Mystery,https://books.toscrape.com/catalogue/the-cuckoos-calling-cormoran-strike-1_239/index.html,Â£19.21,One,In stock
+Extreme Prey (Lucas Davenport #26),25.4,2679.7,3,True,Mystery,https://books.toscrape.com/catalogue/extreme-prey-lucas-davenport-26_154/index.html,Â£25.40,Three,In stock
+Career of Evil (Cormoran Strike #3),24.72,2607.96,2,True,Mystery,https://books.toscrape.com/catalogue/career-of-evil-cormoran-strike-3_137/index.html,Â£24.72,Two,In stock
+The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),57.7,6087.35,4,True,Mystery,https://books.toscrape.com/catalogue/the-no-1-ladies-detective-agency-no-1-ladies-detective-agency-1_76/index.html,Â£57.70,Four,In stock
+The Girl You Lost,12.29,1296.59,5,True,Mystery,https://books.toscrape.com/catalogue/the-girl-you-lost_66/index.html,Â£12.29,Five,In stock
+The Girl In The Ice (DCI Erika Foster #1),15.85,1672.18,3,True,Mystery,https://books.toscrape.com/catalogue/the-girl-in-the-ice-dci-erika-foster-1_65/index.html,Â£15.85,Three,In stock
+Blood Defense (Samantha Brinkman #1),20.3,2141.65,3,True,Mystery,https://books.toscrape.com/catalogue/blood-defense-samantha-brinkman-1_8/index.html,Â£20.30,Three,In stock
+1st to Die (Women's Murder Club #1),53.98,5694.89,1,True,Mystery,https://books.toscrape.com/catalogue/1st-to-die-womens-murder-club-1_2/index.html,Â£53.98,One,In stock
+The Requiem Red,22.65,2389.57,1,True,Young Adult,https://books.toscrape.com/catalogue/the-requiem-red_995/index.html,Â£22.65,One,In stock
+Set Me Free,17.46,1842.03,5,True,Young Adult,https://books.toscrape.com/catalogue/set-me-free_988/index.html,Â£17.46,Five,In stock
+The Natural History of Us (The Fine Art of Pretending #2),45.22,4770.71,3,True,Young Adult,https://books.toscrape.com/catalogue/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html,Â£45.22,Three,In stock
+Obsidian (Lux #1),14.86,1567.73,2,True,Young Adult,https://books.toscrape.com/catalogue/obsidian-lux-1_911/index.html,Â£14.86,Two,In stock
+Burning,28.81,3039.46,3,True,Young Adult,https://books.toscrape.com/catalogue/burning_884/index.html,Â£28.81,Three,In stock
+A Fierce and Subtle Poison,28.13,2967.71,4,True,Young Adult,https://books.toscrape.com/catalogue/a-fierce-and-subtle-poison_875/index.html,Â£28.13,Four,In stock
+Scarlett Epstein Hates It Here,43.55,4594.52,5,True,Young Adult,https://books.toscrape.com/catalogue/scarlett-epstein-hates-it-here_828/index.html,Â£43.55,Five,In stock
+"Nightingale, Sing",38.28,4038.54,1,True,Young Adult,https://books.toscrape.com/catalogue/nightingale-sing_823/index.html,Â£38.28,One,In stock
+Library of Souls (Miss Peregrineâs Peculiar Children #3),48.56,5123.08,5,True,Young Adult,https://books.toscrape.com/catalogue/library-of-souls-miss-peregrines-peculiar-children-3_816/index.html,Â£48.56,Five,In stock
+Frostbite (Vampire Academy #2),29.99,3163.94,5,True,Young Adult,https://books.toscrape.com/catalogue/frostbite-vampire-academy-2_810/index.html,Â£29.99,Five,In stock
+Wild Swans,14.36,1514.98,2,True,Young Adult,https://books.toscrape.com/catalogue/wild-swans_782/index.html,Â£14.36,Two,In stock
+Until Friday Night (The Field Party #1),46.31,4885.7,2,True,Young Adult,https://books.toscrape.com/catalogue/until-friday-night-the-field-party-1_775/index.html,Â£46.31,Two,In stock
+This Is Where It Ends,27.12,2861.16,2,True,Young Adult,https://books.toscrape.com/catalogue/this-is-where-it-ends_771/index.html,Â£27.12,Two,In stock
+The Darkest Lie,35.35,3729.42,5,True,Young Adult,https://books.toscrape.com/catalogue/the-darkest-lie_747/index.html,Â£35.35,Five,In stock
+My Kind of Crazy,40.36,4257.98,1,True,Young Adult,https://books.toscrape.com/catalogue/my-kind-of-crazy_718/index.html,Â£40.36,One,In stock
+Don't Get Caught,55.35,5839.42,1,True,Young Adult,https://books.toscrape.com/catalogue/dont-get-caught_687/index.html,Â£55.35,One,In stock
+Catching Jordan (Hundred Oaks),50.83,5362.56,3,True,Young Adult,https://books.toscrape.com/catalogue/catching-jordan-hundred-oaks_673/index.html,Â£50.83,Three,In stock
+Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),58.14,6133.77,4,True,Young Adult,https://books.toscrape.com/catalogue/aristotle-and-dante-discover-the-secrets-of-the-universe-aristotle-and-dante-discover-the-secrets-of-the-universe-1_663/index.html,Â£58.14,Four,In stock
+The Epidemic (The Program 0.6),14.44,1523.42,5,True,Young Adult,https://books.toscrape.com/catalogue/the-epidemic-the-program-06_636/index.html,Â£14.44,Five,In stock
+Stars Above (The Lunar Chronicles #4.5),48.05,5069.27,2,True,Young Adult,https://books.toscrape.com/catalogue/stars-above-the-lunar-chronicles-45_632/index.html,Â£48.05,Two,In stock
+No Love Allowed (Dodge Cove #1),54.65,5765.58,4,True,Young Adult,https://books.toscrape.com/catalogue/no-love-allowed-dodge-cove-1_625/index.html,Â£54.65,Four,In stock
+"Exit, Pursued by a Bear",51.34,5416.37,4,True,Young Adult,https://books.toscrape.com/catalogue/exit-pursued-by-a-bear_591/index.html,Â£51.34,Four,In stock
+The Alien Club,54.4,5739.2,1,True,Young Adult,https://books.toscrape.com/catalogue/the-alien-club_569/index.html,Â£54.40,One,In stock
+Don't Forget Steven,33.23,3505.76,1,True,Young Adult,https://books.toscrape.com/catalogue/dont-forget-steven_561/index.html,Â£33.23,One,In stock
+South of Sunshine,28.93,3052.12,1,True,Young Adult,https://books.toscrape.com/catalogue/south-of-sunshine_544/index.html,Â£28.93,One,In stock
+My Life Next Door (My Life Next Door ),36.39,3839.14,5,True,Young Adult,https://books.toscrape.com/catalogue/my-life-next-door-my-life-next-door_535/index.html,Â£36.39,Five,In stock
+Future Shock (Future Shock #1),55.65,5871.08,5,True,Young Adult,https://books.toscrape.com/catalogue/future-shock-future-shock-1_519/index.html,Â£55.65,Five,In stock
+Nightstruck: A Novel,50.35,5311.92,4,True,Young Adult,https://books.toscrape.com/catalogue/nightstruck-a-novel_480/index.html,Â£50.35,Four,In stock
+Tell the Wolves I'm Home,50.96,5376.28,2,True,Young Adult,https://books.toscrape.com/catalogue/tell-the-wolves-im-home_439/index.html,Â£50.96,Two,In stock
+"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",47.31,4991.2,4,True,Young Adult,https://books.toscrape.com/catalogue/will-grayson-will-grayson-will-grayson-will-grayson_419/index.html,Â£47.31,Four,In stock
+Where She Went (If I Stay #2),41.73,4402.51,4,True,Young Adult,https://books.toscrape.com/catalogue/where-she-went-if-i-stay-2_417/index.html,Â£41.73,Four,In stock
+Two Summers,14.64,1544.52,1,True,Young Adult,https://books.toscrape.com/catalogue/two-summers_415/index.html,Â£14.64,One,In stock
+The Darkest Corners,11.33,1195.32,5,True,Young Adult,https://books.toscrape.com/catalogue/the-darkest-corners_399/index.html,Â£11.33,Five,In stock
+Tell Me Three Things,41.81,4410.96,1,True,Young Adult,https://books.toscrape.com/catalogue/tell-me-three-things_395/index.html,Â£41.81,One,In stock
+Lola and the Boy Next Door (Anna and the French Kiss #2),23.63,2492.96,4,True,Young Adult,https://books.toscrape.com/catalogue/lola-and-the-boy-next-door-anna-and-the-french-kiss-2_385/index.html,Â£23.63,Four,In stock
+Kill the Boy Band,15.52,1637.36,5,True,Young Adult,https://books.toscrape.com/catalogue/kill-the-boy-band_381/index.html,Â£15.52,Five,In stock
+Isla and the Happily Ever After (Anna and the French Kiss #3),48.13,5077.72,5,True,Young Adult,https://books.toscrape.com/catalogue/isla-and-the-happily-ever-after-anna-and-the-french-kiss-3_380/index.html,Â£48.13,Five,In stock
+An Abundance of Katherines,10.0,1055.0,5,True,Young Adult,https://books.toscrape.com/catalogue/an-abundance-of-katherines_362/index.html,Â£10.00,Five,In stock
+Harry Potter and the Prisoner of Azkaban (Harry Potter #3),24.17,2549.94,4,True,Young Adult,https://books.toscrape.com/catalogue/harry-potter-and-the-prisoner-of-azkaban-harry-potter-3_328/index.html,Â£24.17,Four,In stock
+Walk the Edge (Thunder Road #2),32.36,3413.98,3,True,Young Adult,https://books.toscrape.com/catalogue/walk-the-edge-thunder-road-2_300/index.html,Â£32.36,Three,In stock
+Two Boys Kissing,32.74,3454.07,2,True,Young Adult,https://books.toscrape.com/catalogue/two-boys-kissing_294/index.html,Â£32.74,Two,In stock
+The New Guy (and Other Senior Year Distractions),44.92,4739.06,3,True,Young Adult,https://books.toscrape.com/catalogue/the-new-guy-and-other-senior-year-distractions_266/index.html,Â£44.92,Three,In stock
+"The Land of 10,000 Madonnas",29.64,3127.02,4,True,Young Adult,https://books.toscrape.com/catalogue/the-land-of-10000-madonnas_258/index.html,Â£29.64,Four,In stock
+Scarlet (The Lunar Chronicles #2),14.57,1537.14,4,True,Young Adult,https://books.toscrape.com/catalogue/scarlet-the-lunar-chronicles-2_218/index.html,Â£14.57,Four,In stock
+Legend (Legend #1),43.69,4609.3,4,True,Young Adult,https://books.toscrape.com/catalogue/legend-legend-1_184/index.html,Â£43.69,Four,In stock
+Lady Renegades (Rebel Belle #3),53.04,5595.72,5,True,Young Adult,https://books.toscrape.com/catalogue/lady-renegades-rebel-belle-3_181/index.html,Â£53.04,Five,In stock
+Golden (Heart of Dread #3),42.21,4453.16,4,True,Young Adult,https://books.toscrape.com/catalogue/golden-heart-of-dread-3_161/index.html,Â£42.21,Four,In stock
+Cinder (The Lunar Chronicles #1),26.09,2752.5,1,True,Young Adult,https://books.toscrape.com/catalogue/cinder-the-lunar-chronicles-1_139/index.html,Â£26.09,One,In stock
+Boy Meets Boy,21.12,2228.16,3,True,Young Adult,https://books.toscrape.com/catalogue/boy-meets-boy_134/index.html,Â£21.12,Three,In stock
+Annie on My Mind,36.83,3885.56,5,True,Young Adult,https://books.toscrape.com/catalogue/annie-on-my-mind_120/index.html,Â£36.83,Five,In stock
+New Moon (Twilight #2),12.86,1356.73,4,True,Young Adult,https://books.toscrape.com/catalogue/new-moon-twilight-2_105/index.html,Â£12.86,Four,In stock
+Girl Online On Tour (Girl Online #2),53.47,5641.08,1,True,Young Adult,https://books.toscrape.com/catalogue/girl-online-on-tour-girl-online-2_101/index.html,Â£53.47,One,In stock
+The Haters,27.89,2942.4,5,True,Young Adult,https://books.toscrape.com/catalogue/the-haters_67/index.html,Â£27.89,Five,In stock
+The Art of Not Breathing,40.83,4307.56,4,True,Young Adult,https://books.toscrape.com/catalogue/the-art-of-not-breathing_58/index.html,Â£40.83,Four,In stock
+Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,3965.75,1,True,Science Fiction,https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html,Â£37.59,One,In stock
+Join,35.67,3763.19,5,True,Science Fiction,https://books.toscrape.com/catalogue/join_902/index.html,Â£35.67,Five,In stock
+"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.3,4568.15,4,True,Science Fiction,https://books.toscrape.com/catalogue/william-shakespeares-star-wars-verily-a-new-hope-william-shakespeares-star-wars-4_871/index.html,Â£43.30,Four,In stock
+The Project,10.65,1123.58,1,True,Science Fiction,https://books.toscrape.com/catalogue/the-project_856/index.html,Â£10.65,One,In stock
+Soft Apocalypse,26.12,2755.66,2,True,Science Fiction,https://books.toscrape.com/catalogue/soft-apocalypse_833/index.html,Â£26.12,Two,In stock
+Sleeping Giants (Themis Files #1),48.74,5142.07,1,True,Science Fiction,https://books.toscrape.com/catalogue/sleeping-giants-themis-files-1_604/index.html,Â£48.74,One,In stock
+Arena,21.36,2253.48,4,True,Science Fiction,https://books.toscrape.com/catalogue/arena_587/index.html,Â£21.36,Four,In stock
+Foundation (Foundation (Publication Order) #1),32.42,3420.31,1,True,Science Fiction,https://books.toscrape.com/catalogue/foundation-foundation-publication-order-1_375/index.html,Â£32.42,One,In stock
+The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),10.92,1152.06,1,True,Science Fiction,https://books.toscrape.com/catalogue/the-restaurant-at-the-end-of-the-universe-hitchhikers-guide-to-the-galaxy-2_275/index.html,Â£10.92,One,In stock
+Ready Player One,19.07,2011.88,4,True,Science Fiction,https://books.toscrape.com/catalogue/ready-player-one_209/index.html,Â£19.07,Four,In stock
+"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",33.26,3508.93,2,True,Science Fiction,https://books.toscrape.com/catalogue/life-the-universe-and-everything-hitchhikers-guide-to-the-galaxy-3_189/index.html,Â£33.26,Two,In stock
+Dune (Dune #1),54.86,5787.73,1,True,Science Fiction,https://books.toscrape.com/catalogue/dune-dune-1_151/index.html,Â£54.86,One,In stock
+Do Androids Dream of Electric Sheep? (Blade Runner #1),51.48,5431.14,1,True,Science Fiction,https://books.toscrape.com/catalogue/do-androids-dream-of-electric-sheep-blade-runner-1_149/index.html,Â£51.48,One,In stock
+Three Wishes (River of Time: California #1),44.18,4660.99,2,True,Science Fiction,https://books.toscrape.com/catalogue/three-wishes-river-of-time-california-1_89/index.html,Â£44.18,Two,In stock
+The Last Girl (The Dominion Trilogy #1),36.26,3825.43,2,True,Science Fiction,https://books.toscrape.com/catalogue/the-last-girl-the-dominion-trilogy-1_70/index.html,Â£36.26,Two,In stock
+Having the Barbarian's Baby (Ice Planet Barbarians #7.5),34.96,3688.28,4,True,Science Fiction,https://books.toscrape.com/catalogue/having-the-barbarians-baby-ice-planet-barbarians-75_23/index.html,Â£34.96,Four,In stock
